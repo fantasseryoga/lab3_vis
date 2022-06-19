@@ -1,0 +1,21 @@
+C:\Users\gorsk\Desktop\C_#\Lab_3\Lab_3\bin\Debug\Lab_3.exe.config
+C:\Users\gorsk\Desktop\C_#\Lab_3\Lab_3\bin\Debug\Lab_3.exe
+C:\Users\gorsk\Desktop\C_#\Lab_3\Lab_3\bin\Debug\Lab_3.pdb
+C:\Users\gorsk\Desktop\C_#\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.AssemblyReference.cache
+C:\Users\gorsk\Desktop\C_#\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\gorsk\Desktop\C_#\Lab_3\Lab_3\obj\Debug\Lab_3.Form1.resources
+C:\Users\gorsk\Desktop\C_#\Lab_3\Lab_3\obj\Debug\Lab_3.Properties.Resources.resources
+C:\Users\gorsk\Desktop\C_#\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.GenerateResource.cache
+C:\Users\gorsk\Desktop\C_#\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\gorsk\Desktop\C_#\Lab_3\Lab_3\obj\Debug\Lab_3.exe
+C:\Users\gorsk\Desktop\C_#\Lab_3\Lab_3\obj\Debug\Lab_3.pdb
+C:\Users\sergo\OneDrive\Рабочий стол\UNIVERSITY\course3_2\vis\Lab_3\Lab_3\bin\Debug\Lab_3.exe.config
+C:\Users\sergo\OneDrive\Рабочий стол\UNIVERSITY\course3_2\vis\Lab_3\Lab_3\bin\Debug\Lab_3.exe
+C:\Users\sergo\OneDrive\Рабочий стол\UNIVERSITY\course3_2\vis\Lab_3\Lab_3\bin\Debug\Lab_3.pdb
+C:\Users\sergo\OneDrive\Рабочий стол\UNIVERSITY\course3_2\vis\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.AssemblyReference.cache
+C:\Users\sergo\OneDrive\Рабочий стол\UNIVERSITY\course3_2\vis\Lab_3\Lab_3\obj\Debug\Lab_3.Form1.resources
+C:\Users\sergo\OneDrive\Рабочий стол\UNIVERSITY\course3_2\vis\Lab_3\Lab_3\obj\Debug\Lab_3.Properties.Resources.resources
+C:\Users\sergo\OneDrive\Рабочий стол\UNIVERSITY\course3_2\vis\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.GenerateResource.cache
+C:\Users\sergo\OneDrive\Рабочий стол\UNIVERSITY\course3_2\vis\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\sergo\OneDrive\Рабочий стол\UNIVERSITY\course3_2\vis\Lab_3\Lab_3\obj\Debug\Lab_3.exe
+C:\Users\sergo\OneDrive\Рабочий стол\UNIVERSITY\course3_2\vis\Lab_3\Lab_3\obj\Debug\Lab_3.pdb
